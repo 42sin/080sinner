@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </h1>
   <h2>
     I'm Ersin 👨‍💻 <br> 20 years old ✌️ <br> Cadet at <a href="https://www.42heilbronn.de/en/">42 School </a>👨‍🎓<br>
-    Above you can see a gif of me, working on my latest project.
+    Above you can see a gif of me working on my latest project
   </h2>
  </div>
 
