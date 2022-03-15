@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h2>
-    I'm Ersin 👨‍💻 <br> 20 years old ✌️ <br> Cadet at 42 School 👨‍🎓 <br>
+    I'm Ersin 👨‍💻 <br> 20 years old ✌️ <br> Cadet at <a href="https://www.42heilbronn.de/en/">42 School </a>👨‍🎓<br>
     Above you can see a gif of me, working on my latest project.
   </h2>
  </div>
