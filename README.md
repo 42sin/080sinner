@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 </div>
 <br>
 <div id="badges" align="center">
@@ -30,8 +29,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h2>
-    I'm Ersin 👨‍💻 <br> 21 years old ✌️ <br> Cadet at <a href="https://www.42heilbronn.de/en/">42 School </a>👨‍🎓<br>
-    Above you can see a gif of me working on my latest project
+    Software Engineer 👨‍💻 <br> 23 years old <br> Cadet at <a href="https://www.42heilbronn.de/en/">42 School </a>👨‍🎓<br>
   </h2>
  </div>
 
