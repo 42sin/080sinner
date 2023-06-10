@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h2>
-    Software Engineer 👨‍💻 <br> 23 years old <br> Cadet at <a href="https://www.42heilbronn.de/en/">42 School </a>👨‍🎓<br>
+    Software Engineer 👨‍💻 <br> 22 years old <br> Cadet at <a href="https://www.42heilbronn.de/en/">42 School </a>👨‍🎓<br>
   </h2>
  </div>
 
