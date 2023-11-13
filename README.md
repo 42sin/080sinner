@@ -86,7 +86,7 @@
 
   #### [About 42 Heilbronn]
 
-[42 Heilbronn]: https://42heilbronn.de/
+[About 42 Heilbronn]: https://42heilbronn.de/
 [Some of my Projects]: https://github.com/42sin?tab=repositories
 [ft_transcendence]: https://github.com/42sin/ft_transcendence
 [ft_irc]: https://github.com/42sin/ft_irc
