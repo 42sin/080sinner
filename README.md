@@ -8,7 +8,7 @@
 <hr>
 
 ```
-👨‍💻 Ersin Özben, 22 years old
+👨‍💻 { "name": "ersin", "age": 22 }
 💻 Junior Software Developer
 📚 Finished the core curriculum at 42 Heilbronn
 📝 Interested in Back-End Development, AI and Cyber Security
