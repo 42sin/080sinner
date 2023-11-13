@@ -39,8 +39,6 @@
 
 
 ## 💻 [Some of my Projects]
-  #### [42 Heilbronn]
-
   <a href="https://github.com/42sin/ft_transcendence">
   <img align="left" alt="05" src="project_badges/ft_transcendencem.png" width="86" height="86">
   </a>
@@ -83,6 +81,10 @@
   
   #### [Philosophers]
   "Dining philosophers problem" - Threads, Mutexes, Semaphores
+  <br clear="left"/>
+  <br>
+
+  #### These are some projects from the core curriculum of [42 Heilbronn]
 
 [42 Heilbronn]: https://42heilbronn.de/
 [Some of my Projects]: https://github.com/42sin?tab=repositories
