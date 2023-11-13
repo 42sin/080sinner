@@ -80,11 +80,12 @@
   </a>
   
   #### [Philosophers]
-  "Dining philosophers problem" - Threads, Mutexes, Semaphores
+  Dining philosophers problem - Threads and Mutexes
   <br clear="left"/>
   <br>
+  <br>
 
-  #### These are some projects from the core curriculum of [42 Heilbronn]
+  #### Projects from [42 Heilbronn]
 
 [42 Heilbronn]: https://42heilbronn.de/
 [Some of my Projects]: https://github.com/42sin?tab=repositories
