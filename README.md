@@ -83,9 +83,8 @@
   Dining philosophers problem - Threads and Mutexes
   <br clear="left"/>
   <br>
-  <br>
 
-  #### Projects from [42 Heilbronn]
+  #### Information about [42 Heilbronn]
 
 [42 Heilbronn]: https://42heilbronn.de/
 [Some of my Projects]: https://github.com/42sin?tab=repositories
