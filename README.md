@@ -39,14 +39,6 @@
 
 
 ## 💻 [Some of my Projects]
-  <a href="https://github.com/42sin/ft_transcendence">
-  <img align="left" alt="05" src="project_badges/ft_transcendencem.png" width="86" height="86">
-  </a>
-
-  #### [ft_transcendence]
-  Full-Stack Website to play Ping Pong Online
-  <br clear="left"/>
-  <br>
   
   <a href="https://github.com/42sin/ft_irc">
   <img align="left" alt="05" src="project_badges/ft_ircm.png" width="86" height="86">
@@ -66,6 +58,17 @@
   <br clear="left"/>
   <br>
 
+  <!-- 
+  <a href="https://github.com/42sin/ft_transcendence">
+  <img align="left" alt="05" src="project_badges/ft_transcendencem.png" width="86" height="86">
+  </a>
+
+  #### [ft_transcendence]
+  Full-Stack Website to play Ping Pong Online
+  <br clear="left"/>
+  <br>
+  !-->
+
   <a href="https://github.com/42sin/cub3d">
   <img align="left" alt="05" src="project_badges/cub3dm.png" width="86" height="86">
   </a>
@@ -78,7 +81,7 @@
   <a href="https://github.com/42sin/philosophers">
   <img align="left" alt="05" src="project_badges/philosophersm.png" width="86" height="86">
   </a>
-  
+
   #### [Philosophers]
   Dining philosophers problem - Threads and Mutexes
   <br clear="left"/>
