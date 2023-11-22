@@ -40,8 +40,26 @@
 
 ## 💻 [Some of my Projects]
   
+  <a href="https://github.com/42sin/ft_transcendence">
+  <img align="left" alt="05" src="project_badges/ft_transcendencem.png" width="86" height="86">
+  </a>
+
+  #### [ft_transcendence]
+  A Full-Stack Web Application to play Pong against others
+  <br clear="left"/>
+  <br>
+
   <a href="https://github.com/42sin/ft_irc">
   <img align="left" alt="05" src="project_badges/ft_ircm.png" width="86" height="86">
+  </a>
+
+  #### [minishell]
+  A bash-like shell
+  <br clear="left"/>
+  <br>
+
+  <a href="https://github.com/42sin/cub3d">
+  <img align="left" alt="05" src="project_badges/cub3dm.png" width="86" height="86">
   </a>
 
   #### [ft_irc]
@@ -51,26 +69,6 @@
   
   <a href="https://github.com/42sin/minishell">
   <img align="left" alt="05" src="project_badges/minishellm.png" width="86" height="86">
-  </a>
-  
-  #### [minishell]
-  A bash-like shell
-  <br clear="left"/>
-  <br>
-
-  <!-- 
-  <a href="https://github.com/42sin/ft_transcendence">
-  <img align="left" alt="05" src="project_badges/ft_transcendencem.png" width="86" height="86">
-  </a>
-
-  #### [ft_transcendence]
-  Full-Stack Website to play Ping Pong Online
-  <br clear="left"/>
-  <br>
-  !-->
-
-  <a href="https://github.com/42sin/cub3d">
-  <img align="left" alt="05" src="project_badges/cub3dm.png" width="86" height="86">
   </a>
 
   #### [cub3d]
