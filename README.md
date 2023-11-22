@@ -49,8 +49,8 @@
   <br clear="left"/>
   <br>
 
-  <a href="https://github.com/42sin/ft_irc">
-  <img align="left" alt="05" src="project_badges/ft_ircm.png" width="86" height="86">
+  <a href="https://github.com/42sin/minishell">
+  <img align="left" alt="05" src="project_badges/minishellm.png" width="86" height="86">
   </a>
 
   #### [minishell]
@@ -58,8 +58,8 @@
   <br clear="left"/>
   <br>
 
-  <a href="https://github.com/42sin/cub3d">
-  <img align="left" alt="05" src="project_badges/cub3dm.png" width="86" height="86">
+  <a href="https://github.com/42sin/ft_irc">
+  <img align="left" alt="05" src="project_badges/ft_ircm.png" width="86" height="86">
   </a>
 
   #### [ft_irc]
@@ -67,8 +67,8 @@
   <br clear="left"/>
   <br>
   
-  <a href="https://github.com/42sin/minishell">
-  <img align="left" alt="05" src="project_badges/minishellm.png" width="86" height="86">
+  <a href="https://github.com/42sin/cub3d">
+  <img align="left" alt="05" src="project_badges/cub3dm.png" width="86" height="86">
   </a>
 
   #### [cub3d]
